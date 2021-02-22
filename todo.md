@@ -9,5 +9,5 @@
 ## Niceties:
 - [] Chapter marking and separation
 - [] graph/photos captured as screenshots with place-markers
-> not sure exactly how this will work with epub font size fluidity
+  - not sure exactly how this will work with epub font size fluidity
 - [] Title Page
